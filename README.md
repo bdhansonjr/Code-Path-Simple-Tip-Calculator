@@ -5,7 +5,7 @@ CodePath Pre-Work
 
 **Tippy** is a tip calculator application for iOS.
 
-Submitted by: **Briand D. Hanson, Jr.**
+Submitted by: **Brian D. Hanson, Jr.**
 
 Time spent: **60** hours spent in total
 
@@ -23,14 +23,14 @@ The following **optional** features are implemented:
 * [*] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
-
+- This app utilizes segmented controller as a display for each editable tip value!
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/YvrMcrp.gifv' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
