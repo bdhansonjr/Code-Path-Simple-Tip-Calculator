@@ -38,6 +38,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+- The greatest challenge was learning how to directly access the NSUserDefaults that were store from the settings page. This data needed to be accessed on main ViewController in order to complete the update of segmented controller values for tips. 
+
+- Another challenge was being able to programmatically access the titles of the segmented controller. I found this functionality was best implemented via a separate function.
+
+- Another challenge was learning the newest changes of Xcode and the Swift Lamguage which invalidated the use of bridging to the Objective C Language. I attempted to apply this method of bridging to the Objective C Language for converting the string that is entered on Settings ViewController to the "double" data structure. I learned that NSString Class is the updated method that I used to in accessing the NSUserDefaults dictionary data entered from the Settings ViewController.
+
 ## License
 
     Copyright [2015] [Brian D. Hanson, Jr.]
