@@ -41,16 +41,6 @@ class SettingsViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-    
-//    override func viewWillDisappear(animated: Bool) {
-//        super.viewWillDisappear(animated)
-//        print("view will disappear222")
-//        
-//    }
-    
-    
-    
-    
 // This Action occurs when the "Set subpar tip" button is pressed on this view.
     @IBAction func setSubparTipButton(sender: AnyObject) {
         tipsValues.setObject(subparTipField.text, forKey: "one")
